@@ -10,6 +10,7 @@ Support:
 - `cd`
 - `setenv`
 - pipe
+- commands in PATH environment
 
 ## Tutorial
 
