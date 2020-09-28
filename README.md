@@ -9,7 +9,7 @@ Support:
 - `exit`
 - `cd`
 - `setenv`
-- pine
+- pipe
 
 ## Tutorial
 
